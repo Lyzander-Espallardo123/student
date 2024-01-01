@@ -1,8 +1,8 @@
 <?php
 $servername ="localhost";
-$username ="id21734464_admin";
-$password = "P!0YK_HSZY-Pgsp";
-$dname = "id21734464_student";
+$username ="root";
+$password = "";
+$dname = "sysdb";
 
 $con = mysqli_connect($servername, $username, $password, $dname);
 
